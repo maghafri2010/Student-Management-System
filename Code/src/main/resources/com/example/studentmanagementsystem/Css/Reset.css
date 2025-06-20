@@ -1,0 +1,33 @@
+.header{
+    -fx-font-family: "Comic Sans MS";
+    -fx-alignment: center;
+    -fx-font-size: 30;
+    -fx-text-fill: #2e4053;
+    -fx-font-weight: bold;
+    -fx-underline: true;
+
+}
+
+.labels{
+    -fx-font-family: "Times New Roman";
+    -fx-alignment: center;
+    -fx-font-size: 24;
+    -fx-text-fill: #2e4053;
+}
+
+.verification{
+    -fx-font-family: "Times New Roman";
+    -fx-alignment: center;
+    -fx-font-size: 24;
+    -fx-text-fill: red;
+    -fx-border-color: black;
+}
+
+.button{
+    -fx-background-color: #273746;
+    -fx-font-family: "Times New Roman";
+    -fx-alignment: center;
+    -fx-font-size: 24;
+    -fx-text-fill: white;
+
+}

@@ -1,0 +1,283 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d0cce9e-46b3-42dd-918d-388c35c4b1a0" name="Changes" comment="from desktop">
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/com/example/studentmanagementsystem/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/com/example/studentmanagementsystem/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/com/example/studentmanagementsystem/EmailConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/com/example/studentmanagementsystem/EmailConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/com/example/studentmanagementsystem/Mailing.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/com/example/studentmanagementsystem/Mailing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/resources/com/example/studentmanagementsystem/mail.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/resources/com/example/studentmanagementsystem/mail.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/resources/com/example/studentmanagementsystem/resetPassword.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/resources/com/example/studentmanagementsystem/resetPassword.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2oIjzqSm3TOxSVCe4MdG4RRH6qI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MainApp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mabdo/Desktop/Projects/Student Management System&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mabdo\Desktop\Projects\Student Management System\Code\src\main\resources\com\example\studentmanagementsystem" />
+      <recent name="C:\Users\Mabdo\Desktop\Projects\Student Management System\Code\src\main\java\com\example\studentmanagementsystem" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.studentmanagementsystem.MainApp" />
+      <module name="StudentManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.studentmanagementsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d0cce9e-46b3-42dd-918d-388c35c4b1a0" name="Changes" comment="" />
+      <created>1730564248297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730564248297</updated>
+      <workItem from="1730564249359" duration="639000" />
+      <workItem from="1730591608089" duration="1603000" />
+      <workItem from="1730593411616" duration="1726000" />
+      <workItem from="1730648756646" duration="2305000" />
+      <workItem from="1730844247321" duration="2049000" />
+      <workItem from="1730914002507" duration="616000" />
+      <workItem from="1730914632976" duration="2180000" />
+    </task>
+    <task id="LOCAL-00001" summary="from desktop">
+      <option name="closed" value="true" />
+      <created>1730844281039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730844281039</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="from desktop" />
+    <option name="LAST_COMMIT_MESSAGE" value="from desktop" />
+  </component>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d0cce9e-46b3-42dd-918d-388c35c4b1a0" name="Changes" comment="from desktop">
+      <change afterPath="$PROJECT_DIR$/Code/src/main/java/com/example/studentmanagementsystem/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/com/example/studentmanagementsystem/Connect_to_db.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/com/example/studentmanagementsystem/Connect_to_db.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/com/example/studentmanagementsystem/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/com/example/studentmanagementsystem/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/com/example/studentmanagementsystem/Students.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/resources/com/example/studentmanagementsystem/dashboard.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/resources/com/example/studentmanagementsystem/dashboard.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UoPeople/Second Year/Resources/CS 2204 - Networking/Unit 1/An Overview of Networks/Data Rate.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UoPeople/Second Year/Resources/CS 2204 - Networking/Unit 1/An Overview of Networks/Diagramme sans nom.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UoPeople/Second Year/Resources/CS 2204 - Networking/Unit 1/An Overview of Networks/Network Layers.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UoPeople/Second Year/Resources/CS 2204 - Networking/Unit 1/An Overview of Networks/Packets.drawio" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2oIjzqSm3TOxSVCe4MdG4RRH6qI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MainApp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mabdo/Desktop/Projects/Task Management System&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.studentmanagementsystem" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mabdo\Desktop\Projects\Student Management System\Code\src\main\resources\com\example\studentmanagementsystem" />
+      <recent name="C:\Users\Mabdo\Desktop\Projects\Student Management System\Code\src\main\java\com\example\studentmanagementsystem" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.studentmanagementsystem.MainApp" />
+      <module name="StudentManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.studentmanagementsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d0cce9e-46b3-42dd-918d-388c35c4b1a0" name="Changes" comment="" />
+      <created>1730564248297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730564248297</updated>
+      <workItem from="1730564249359" duration="639000" />
+      <workItem from="1730591608089" duration="1603000" />
+      <workItem from="1730593411616" duration="1726000" />
+      <workItem from="1730648756646" duration="2305000" />
+      <workItem from="1730844247321" duration="2049000" />
+      <workItem from="1730914002507" duration="616000" />
+      <workItem from="1730914632976" duration="2180000" />
+      <workItem from="1731099169309" duration="9245000" />
+      <workItem from="1731152106952" duration="4151000" />
+      <workItem from="1731162546554" duration="954000" />
+      <workItem from="1731163673496" duration="613000" />
+      <workItem from="1731172462294" duration="1353000" />
+      <workItem from="1731179251905" duration="687000" />
+      <workItem from="1731191493925" duration="2569000" />
+      <workItem from="1731256337966" duration="24000" />
+      <workItem from="1731600240296" duration="2821000" />
+    </task>
+    <task id="LOCAL-00001" summary="from desktop">
+      <option name="closed" value="true" />
+      <created>1730844281039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730844281039</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="from desktop" />
+    <option name="LAST_COMMIT_MESSAGE" value="from desktop" />
+  </component>
+<<<<<<< HEAD
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Code/src/main/java/com/example/studentmanagementsystem/Connect_to_db.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+=======
+>>>>>>> 02336ea775c81272f8a44fe58fc17a3368ac7b7d
+>>>>>>> 8646765fef9f2062b850e7dc8cc6dc0c5b9bf033
+</project>

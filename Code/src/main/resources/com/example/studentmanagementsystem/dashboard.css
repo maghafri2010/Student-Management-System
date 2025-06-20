@@ -1,0 +1,126 @@
+<<<<<<< HEAD
+.background{
+    -fx-background-color: #34495e;
+}
+
+.top{
+    -fx-background-color: #515a5a   ;
+}
+.borderpane{
+    -fx-background-color: #ccd1d1;
+}
+
+.labels{
+    -fx-font-family: cursive;
+    -fx-text-fill: #34495e;
+
+}
+.buttons{
+    -fx-font-family: "Cursive";
+    -fx-font-size: 15;
+    -fx-background-color: #34495e ;
+    -fx-text-fill: white;
+    -fx-alignment: center_left;
+    }
+
+.submit{
+    -fx-font-family: "Cursive";
+    -fx-font-size: 15;
+    -fx-background-color: #34495e ;
+    -fx-text-fill: white;
+    -fx-alignment: center;
+
+}
+
+.textField{
+    -fx-font-family: "Cursive";
+    -fx-font-size: 15;
+    -fx-border-color: #34495e ;
+    -fx-alignment: center;
+    -fx-text-fill: #34495e;
+
+}
+
+.icons{
+    -fx-padding: 10px;
+    -fx-background-color: #34495e;
+    -fx-text-fill: white;
+}
+
+.center{
+    -fx-alignment: center_left;
+    -fx-text-fill: #34495e;
+    -fx-font-size: 24;
+    -fx-font-family: cursive ;
+}
+
+=======
+.background{
+    -fx-background-color: #34495e;
+}
+
+.top{
+    -fx-background-color: #515a5a   ;
+}
+.borderpane{
+    -fx-background-color: #ccd1d1;
+}
+
+.labels{
+    -fx-font-family: cursive;
+    -fx-text-fill: #34495e;
+
+}
+.buttons{
+    -fx-font-family: "Cursive";
+    -fx-font-size: 15;
+    -fx-background-color: #34495e ;
+    -fx-text-fill: white;
+    -fx-alignment: center_left;
+    }
+
+.submit{
+    -fx-font-family: "Cursive";
+    -fx-font-size: 15;
+    -fx-background-color: #34495e ;
+    -fx-text-fill: white;
+    -fx-alignment: center;
+
+}
+
+.textField{
+    -fx-font-family: "Cursive";
+    -fx-font-size: 15;
+    -fx-border-color: #34495e ;
+    -fx-alignment: center;
+    -fx-text-fill: #34495e;
+
+}
+
+.icons{
+    -fx-padding: 10px;
+    -fx-background-color: #34495e;
+    -fx-text-fill: white;
+}
+
+.center{
+    -fx-alignment: center_left;
+    -fx-text-fill: #34495e;
+    -fx-font-size: 24;
+    -fx-font-family: cursive ;
+}
+
+.list{
+    -fx-background-color: white;
+    -fx-background-radius: 15 ;
+    -fx-border-color: black ;
+    -fx-border-width: 2 ;
+    -fx-border-radius: 15;
+    -fx-padding: 15;
+    -fx-font-size: 18;
+    -fx-font-family: "Times New Roman";
+    -fx-font-weight: bold;
+
+}
+
+>>>>>>> 02336ea775c81272f8a44fe58fc17a3368ac7b7d
