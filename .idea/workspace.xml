@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
@@ -53,8 +52,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Mabdo\Desktop\Projects\Student Management System\Code\src\main\resources\com\example\studentmanagementsystem" />
-      <recent name="C:\Users\Mabdo\Desktop\Projects\Student Management System\Code\src\main\java\com\example\studentmanagementsystem" />
+      <recent name="C:\Users\Mabdo\OneDrive\Bureau\Student System Management\Code\src\main\resources\com\example\studentmanagementsystem" />
+      <recent name="C:\Users\Mabdo\OneDrive\Bureau\Student System Management\Code\src\main\java\com\example\studentmanagementsystem" />
     </key>
   </component>
   <component name="RunManager">
@@ -119,8 +118,7 @@
     <MESSAGE value="from desktop" />
     <option name="LAST_COMMIT_MESSAGE" value="from desktop" />
   </component>
-=======
-<?xml version="1.0" encoding="UTF-8"?>
+
 <project version="4">
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -190,8 +188,8 @@
       <recent name="com.example.studentmanagementsystem" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Mabdo\Desktop\Projects\Student Management System\Code\src\main\resources\com\example\studentmanagementsystem" />
-      <recent name="C:\Users\Mabdo\Desktop\Projects\Student Management System\Code\src\main\java\com\example\studentmanagementsystem" />
+      <recent name="C:\Users\Mabdo\OneDrive\Bureau\Student System Management\Code\src\main\resources\com\example\studentmanagementsystem" />
+      <recent name="C:\Users\Mabdo\OneDrive\Bureau\Student System Management\Code\src\main\java\com\example\studentmanagementsystem" />
     </key>
   </component>
   <component name="RunManager">
@@ -265,7 +263,6 @@
     <MESSAGE value="from desktop" />
     <option name="LAST_COMMIT_MESSAGE" value="from desktop" />
   </component>
-<<<<<<< HEAD
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -277,7 +274,6 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
-=======
->>>>>>> 02336ea775c81272f8a44fe58fc17a3368ac7b7d
->>>>>>> 8646765fef9f2062b850e7dc8cc6dc0c5b9bf033
+
+</project>
 </project>
